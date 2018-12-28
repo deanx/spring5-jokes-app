@@ -11,7 +11,7 @@
 	<groupId>br.com.deanx</groupId>
 	<artifactId>spring-jokes-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>jokes</name>
 	<description>Spring Jokes APP</description>
 
 	<properties>
